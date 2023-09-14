@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkyBank</string>
+    <string name="otworz">Otwórz konto</string>
+    <string name="waluta">Darmowe przewalutowywanie</string>
+    <string name="zero">Konto już za 0zł</string>
+
+
+
+</resources>
